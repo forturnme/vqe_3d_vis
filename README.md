@@ -10,6 +10,7 @@
 
 在你喜欢的虚拟环境中运行：
 ```
+bash mkdir.sh
 pip install -r requirements.txt
 ```
 
