@@ -1,0 +1,10 @@
+joblib
+scikit-learn
+mindquantum
+scipy
+matplotlib
+imageio
+pillow
+tqdm
+numpy
+openfermion
